@@ -43,7 +43,7 @@
         <mxCell id="gVDEHbl3l0rGDU3breij-24" value="&lt;u&gt;player_name&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gVDEHbl3l0rGDU3breij-21" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVDEHbl3l0rGDU3breij-43" value="player_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gVDEHbl3l0rGDU3breij-21" vertex="1">
+        <mxCell id="gVDEHbl3l0rGDU3breij-43" value="&lt;u&gt;player_number&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gVDEHbl3l0rGDU3breij-21" vertex="1">
           <mxGeometry y="60" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVDEHbl3l0rGDU3breij-50" value="runs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gVDEHbl3l0rGDU3breij-21" vertex="1">
